@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JAVA, JAVASCRIPT, CSS, HTML
