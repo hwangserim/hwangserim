@@ -3,7 +3,7 @@
 
 🐣 I'm beginning for `Backend Developer`
 
-🌱 I’m currently learning `JAVA, JAVASCRIPT, CSS, HTML, Spring`
+🌱 I’m currently learning `JAVA, JAVASCRIPT, CSS, HTML, Spring, Spring Boot`
 
 
 
